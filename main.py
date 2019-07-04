@@ -44,6 +44,7 @@ def login():
 def get_ghiblog():
     global ghiblog
     ghiblog = user.get_repo('knightyui/ghiblog', lazy=False)
+    print("user.get_user().login")
 
 
 def bundle_summary_section():
