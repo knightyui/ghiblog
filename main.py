@@ -43,7 +43,7 @@ def login():
 
 def get_ghiblog():
     global ghiblog
-    ghiblog = user.get_repo('%s/ghiblog' % user.get_user().login)
+    ghiblog = user.get_repo('knightyui/ghiblog', lazy=False)
 
 
 def bundle_summary_section():
@@ -131,9 +131,7 @@ def bundle_list_by_labels_section():
         list_by_labels_section += '''
 <details>
 <summary>%s\t<sup>%s:newspaper:</sup></summary>
-
 %s
-
 </details>
 ''' % (label.name, count, temp)
 
@@ -145,13 +143,9 @@ def bundle_about_me_section():
 
     about_me_section = '''
 ## 关于:boy: 
-
 [<img alt="%s" src="%s" width="233"/>](%s)
-
 **%s**
-
 :round_pushpin: %s
-
 :black_flag: %s
 ''' % (user.get_user().name, user.get_user().avatar_url, user.get_user().html_url, user.get_user().name,
        user.get_user().location,
