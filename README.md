@@ -1,12 +1,18 @@
 
 # GitHub Issues Blog :tada::tada::tada:
     
-> :alarm_clock: 上次更新: 2019-09-26 00:10:33
+> :alarm_clock: 上次更新: 2019-09-27 00:10:32
     
-共 [4](https://github.com/knightyui/ghiblog/labels) 个标签, [2](https://github.com/knightyui/ghiblog/issues) 篇博文.
+共 [5](https://github.com/knightyui/ghiblog/labels) 个标签, [4](https://github.com/knightyui/ghiblog/issues) 篇博文.
 
 ## 置顶 :thumbsup: 
 ## 最新 :new: 
+- [只有两个键的键盘](https://github.com/knightyui/ghiblog/issues/7) <sup>0 :speech_balloon:</sup>  			 :alarm_clock:<sub>2019-09-26 12:34:08</sub> 
+ :label: 	<sub>|</sub><sub>[Java](https://github.com/knightyui/ghiblog/labels/Java)	|	</sub><sub>[动态规划](https://github.com/knightyui/ghiblog/labels/%E5%8A%A8%E6%80%81%E8%A7%84%E5%88%92)	|	</sub>
+
+- [132模式](https://github.com/knightyui/ghiblog/issues/6) <sup>0 :speech_balloon:</sup>  			 :alarm_clock:<sub>2019-09-26 11:32:09</sub> 
+ :label: 	<sub>|</sub>
+
 - [矩阵的最小路径和](https://github.com/knightyui/ghiblog/issues/5) <sup>0 :speech_balloon:</sup>  			 :alarm_clock:<sub>2019-09-18 13:38:58</sub> 
  :label: 	<sub>|</sub><sub>[Java](https://github.com/knightyui/ghiblog/labels/Java)	|	</sub><sub>[动态规划](https://github.com/knightyui/ghiblog/labels/%E5%8A%A8%E6%80%81%E8%A7%84%E5%88%92)	|	</sub>
 
@@ -27,14 +33,21 @@
 </details>
 
 <details>
-<summary>Java	<sup>1:newspaper:</sup></summary>
+<summary>Java	<sup>2:newspaper:</sup></summary>
+- [只有两个键的键盘](https://github.com/knightyui/ghiblog/issues/7)  <sup>0 :speech_balloon:</sup>  	 :alarm_clock:<sub>2019-09-26 12:34:08</sub> 
 - [矩阵的最小路径和](https://github.com/knightyui/ghiblog/issues/5)  <sup>0 :speech_balloon:</sup>  	 :alarm_clock:<sub>2019-09-18 13:38:58</sub> 
 
 </details>
 
 <details>
-<summary>动态规划	<sup>1:newspaper:</sup></summary>
+<summary>动态规划	<sup>2:newspaper:</sup></summary>
+- [只有两个键的键盘](https://github.com/knightyui/ghiblog/issues/7)  <sup>0 :speech_balloon:</sup>  	 :alarm_clock:<sub>2019-09-26 12:34:08</sub> 
 - [矩阵的最小路径和](https://github.com/knightyui/ghiblog/issues/5)  <sup>0 :speech_balloon:</sup>  	 :alarm_clock:<sub>2019-09-18 13:38:58</sub> 
+
+</details>
+
+<details>
+<summary>栈	<sup>0:newspaper:</sup></summary>
 
 </details>
 
