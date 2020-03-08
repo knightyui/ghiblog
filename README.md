@@ -1,7 +1,7 @@
 
 # GitHub Issues Blog :tada::tada::tada:
     
-> :alarm_clock: 上次更新: 2020-03-07 00:10:30
+> :alarm_clock: 上次更新: 2020-03-08 00:12:11
     
 共 [7](https://github.com/knightyui/ghiblog/labels) 个标签, [8](https://github.com/knightyui/ghiblog/issues) 篇博文.
 
