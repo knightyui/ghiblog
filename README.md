@@ -1,7 +1,7 @@
 
 # GitHub Issues Blog :tada::tada::tada:
     
-> :alarm_clock: 上次更新: 2021-01-21 00:10:10
+> :alarm_clock: 上次更新: 2021-01-22 00:10:13
     
 共 [7](https://github.com/knightyui/ghiblog/labels) 个标签, [10](https://github.com/knightyui/ghiblog/issues) 篇博文.
 
@@ -76,7 +76,7 @@
 </details>
 
 ## 关于:boy: 
-[<img alt="knightyui" src="https://avatars3.githubusercontent.com/u/16116206?v=4" width="233"/>](https://github.com/knightyui)
+[<img alt="knightyui" src="https://avatars.githubusercontent.com/u/16116206?v=4" width="233"/>](https://github.com/knightyui)
 **knightyui**
 :round_pushpin: Nanjing JiangSu
 :black_flag: None
